@@ -12,7 +12,7 @@
 
         <variable
             name="viewModel"
-            type="de.lehrbaum.initiativetracker.view.combat.CombatantViewModel" />
+            type="de.lehrbaum.initiativetracker.view.combat.client.ClientCombatantViewModel" />
     </data>
 
     <FrameLayout
